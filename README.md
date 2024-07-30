@@ -23,8 +23,8 @@ This Python script provides a comprehensive solution for managing a shopping car
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/advanced-inventory-cart-manager.git
-    cd advanced-inventory-cart-manager
+    git clone https://github.com/AnonymousI0I/Dynamic-Inventory-Control-System.git
+    cd Dynamic-Inventory-Control-System
     ```
 
 2. **Ensure Python 3.x is installed on your machine**.
@@ -34,7 +34,7 @@ This Python script provides a comprehensive solution for managing a shopping car
 1. **Run the script**:
 
     ```bash
-    python inventory_cart_manager.py
+    python Dynamic Inventory Control System.py
     ```
 
 2. **Follow the on-screen prompts to add, delete, or checkout items**:
