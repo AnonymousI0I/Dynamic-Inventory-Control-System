@@ -1,4 +1,4 @@
-# Advanced Inventory Cart Manager
+# Dynamic-Inventory-Control-System
 
 This Python script provides a comprehensive solution for managing a shopping cart with advanced inventory control. The main functionalities include:
 
